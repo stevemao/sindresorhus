@@ -1,0 +1,22 @@
+{
+  "name": "sindresorhus",
+  "version": "1.0.0",
+  "description": "Your very own Sindre :)",
+  "bin": "sindresorhus.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevemao/sindresorhus.git"
+  },
+  "keywords": [
+    "tj",
+    "ascii",
+    "color",
+    "digital"
+  ],
+  "author": "Steve Mao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevemao/sindresorhus/issues"
+  },
+  "homepage": "https://github.com/stevemao/sindresorhus#readme"
+}
